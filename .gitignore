@@ -1,0 +1,9 @@
+/node_modules
+/originalDB
+/parsedJsons
+node.exe
+npm*
+npx*
+node*
+install_tools.bat
+Errors.json
